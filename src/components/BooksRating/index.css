@@ -1,0 +1,16 @@
+.cover-pics {
+  width: 350px;
+  height: 224px;
+  left: 171px;
+  top: 409px;
+  margin: 10px;
+}
+.slick-prev {
+  left: 3% !important;
+  z-index: 1;
+}
+
+.slick-next {
+  right: 3% !important;
+  z-index: 1;
+}
